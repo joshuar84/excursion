@@ -21,6 +21,7 @@ h4 {
 a {
     color: aquamarine;
     font-size: 16px;
+    font-weight: normal;
 }
 #copywrite {
     text-align: right;
